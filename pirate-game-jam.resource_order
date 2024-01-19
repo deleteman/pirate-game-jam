@@ -17,7 +17,10 @@
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"obj_pared","order":1,"path":"objects/obj_pared/obj_pared.yy",},
     {"name":"pinchos","order":2,"path":"sprites/pinchos/pinchos.yy",},
     {"name":"prota","order":1,"path":"sprites/prota/prota.yy",},
+    {"name":"Sprite5","order":3,"path":"sprites/Sprite5/Sprite5.yy",},
+    {"name":"Object3","order":2,"path":"objects/Object3/Object3.yy",},
   ],
 }

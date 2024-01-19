@@ -36,6 +36,9 @@
   "resources": [
     {"id":{"name":"spr_enemigovolador","path":"sprites/spr_enemigovolador/spr_enemigovolador.yy",},},
     {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},},
+    {"id":{"name":"pinchos","path":"sprites/pinchos/pinchos.yy",},},
+    {"id":{"name":"prota","path":"sprites/prota/prota.yy",},},
+    {"id":{"name":"sierra","path":"sprites/sierra/sierra.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [

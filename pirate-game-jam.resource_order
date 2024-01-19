@@ -16,5 +16,8 @@
     {"name":"Sonidos","order":3,"path":"folders/Sonidos.yy",},
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
   ],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"pinchos","order":2,"path":"sprites/pinchos/pinchos.yy",},
+    {"name":"prota","order":1,"path":"sprites/prota/prota.yy",},
+  ],
 }

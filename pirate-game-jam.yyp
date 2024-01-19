@@ -35,8 +35,11 @@
   },
   "resources": [
     {"id":{"name":"pinchos","path":"sprites/pinchos/pinchos.yy",},},
+    {"id":{"name":"parado","path":"sprites/parado/parado.yy",},},
+    {"id":{"name":"saltando","path":"sprites/saltando/saltando.yy",},},
     {"id":{"name":"prota","path":"sprites/prota/prota.yy",},},
     {"id":{"name":"sierra","path":"sprites/sierra/sierra.yy",},},
+    {"id":{"name":"lava","path":"sprites/lava/lava.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [

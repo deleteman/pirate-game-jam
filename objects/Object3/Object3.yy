@@ -25,7 +25,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "prota",
+    "path": "sprites/prota/prota.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

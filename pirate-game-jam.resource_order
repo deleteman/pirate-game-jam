@@ -17,10 +17,17 @@
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"obj_pared","order":1,"path":"objects/obj_pared/obj_pared.yy",},
+    {"name":"Prota","order":1,"path":"objects/Prota/Prota.yy",},
+    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
+    {"name":"WeaponManager","order":2,"path":"objects/WeaponManager/WeaponManager.yy",},
+    {"name":"Player","order":1,"path":"sprites/Player/Player.yy",},
     {"name":"pinchos","order":2,"path":"sprites/pinchos/pinchos.yy",},
     {"name":"parado","order":3,"path":"sprites/parado/parado.yy",},
     {"name":"saltando","order":5,"path":"sprites/saltando/saltando.yy",},
     {"name":"prota","order":1,"path":"sprites/prota/prota.yy",},
+    {"name":"Sprite5","order":3,"path":"sprites/Sprite5/Sprite5.yy",},
+    {"name":"Object3","order":2,"path":"objects/Object3/Object3.yy",},
     {"name":"lava","order":4,"path":"sprites/lava/lava.yy",},
   ],
 }

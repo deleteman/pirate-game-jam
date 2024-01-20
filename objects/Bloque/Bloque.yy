@@ -26,7 +26,7 @@
   "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [],
-  "solid": false,
+  "solid": true,
   "spriteId": {
     "name": "Bloque1",
     "path": "sprites/Bloque1/Bloque1.yy",

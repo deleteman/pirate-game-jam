@@ -1,10 +1,8 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Object10",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":true,},
-  ],
+  "name": "Flecha",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -28,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "lanza_flechas",
-    "path": "sprites/lanza_flechas/lanza_flechas.yy",
+    "name": "flecha",
+    "path": "sprites/flecha/flecha.yy",
   },
   "spriteMaskId": null,
   "visible": true,

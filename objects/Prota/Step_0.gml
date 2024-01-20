@@ -21,8 +21,4 @@ WeaponManager.selected_weapon == Weapons.blocker) {
 	target_x = floor(mouse_x/grid_size)*grid_size
 	target_y = floor(mouse_y/grid_size)*grid_size
 	instance_create_layer(target_x, target_y, "Instances", Bloque)
-}  else if(mouse_check_button_pressed(mb_left) && 
-WeaponManager.selected_weapon == Weapons.destroyer) {
-	
-
-}
+}  

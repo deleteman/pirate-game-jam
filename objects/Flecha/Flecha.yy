@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Object8",
+  "name": "Flecha",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "pinchos",
-    "path": "sprites/pinchos/pinchos.yy",
+    "name": "flecha",
+    "path": "sprites/flecha/flecha.yy",
   },
   "spriteMaskId": null,
   "visible": true,

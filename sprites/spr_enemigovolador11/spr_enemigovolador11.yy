@@ -1,10 +1,10 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "spr_enemigovolador",
+  "name": "spr_enemigovolador11",
   "bbox_bottom": 54,
-  "bbox_left": 13,
-  "bbox_right": 62,
+  "bbox_left": 1,
+  "bbox_right": 50,
   "bbox_top": 13,
   "bboxMode": 0,
   "collisionKind": 2,
@@ -56,9 +56,9 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"7065f87b-e643-4fa2-96b3-12a896861e99","path":"sprites/spr_enemigovolador/spr_enemigovolador.yy",},},},"Disabled":false,"id":"d5ab356c-d0df-4f66-989a-82de1390e3f5","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"97b9d0e9-1811-43a2-85b7-a98fbaf49993","path":"sprites/spr_enemigovolador/spr_enemigovolador.yy",},},},"Disabled":false,"id":"cd31d228-49b5-428c-9b9b-2a35e2feca8d","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"fa5b2497-4517-4de7-9698-21688c2fd622","path":"sprites/spr_enemigovolador/spr_enemigovolador.yy",},},},"Disabled":false,"id":"2e4b7af6-5a91-4584-9820-2ad4fc7a111b","IsCreationKey":false,"Key":2.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"7065f87b-e643-4fa2-96b3-12a896861e99","path":"sprites/spr_enemigovolador11/spr_enemigovolador11.yy",},},},"Disabled":false,"id":"062fea1f-4152-4be7-843a-494e2a53d10f","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"97b9d0e9-1811-43a2-85b7-a98fbaf49993","path":"sprites/spr_enemigovolador11/spr_enemigovolador11.yy",},},},"Disabled":false,"id":"914ffae9-5f4d-4ccc-9d37-6746c0e62edf","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"fa5b2497-4517-4de7-9698-21688c2fd622","path":"sprites/spr_enemigovolador11/spr_enemigovolador11.yy",},},},"Disabled":false,"id":"3e79b75d-3f30-4592-b866-d5ac7e1e4718","IsCreationKey":false,"Key":2.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,

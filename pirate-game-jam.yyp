@@ -31,11 +31,12 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.8.2.108",
+    "IDEVersion": "2023.11.1.129",
   },
   "resources": [
     {"id":{"name":"spr_enemigovolador","path":"sprites/spr_enemigovolador/spr_enemigovolador.yy",},},
     {"id":{"name":"obj_pared","path":"objects/obj_pared/obj_pared.yy",},},
+    {"id":{"name":"spr_enemigovolador11","path":"sprites/spr_enemigovolador11/spr_enemigovolador11.yy",},},
     {"id":{"name":"obj_enemigovolador","path":"objects/obj_enemigovolador/obj_enemigovolador.yy",},},
     {"id":{"name":"Prota","path":"objects/Prota/Prota.yy",},},
     {"id":{"name":"Bloque1","path":"sprites/Bloque1/Bloque1.yy",},},
@@ -54,8 +55,8 @@
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [

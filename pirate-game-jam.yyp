@@ -35,6 +35,7 @@
   },
   "resources": [
     {"id":{"name":"spr_enemigovolador","path":"sprites/spr_enemigovolador/spr_enemigovolador.yy",},},
+    {"id":{"name":"Object7","path":"objects/Object7/Object7.yy",},},
     {"id":{"name":"obj_pared","path":"objects/obj_pared/obj_pared.yy",},},
     {"id":{"name":"obj_enemigovolador","path":"objects/obj_enemigovolador/obj_enemigovolador.yy",},},
     {"id":{"name":"Prota","path":"objects/Prota/Prota.yy",},},

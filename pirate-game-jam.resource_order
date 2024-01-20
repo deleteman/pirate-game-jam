@@ -17,6 +17,7 @@
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"Object7","order":3,"path":"objects/Object7/Object7.yy",},
     {"name":"obj_pared","order":1,"path":"objects/obj_pared/obj_pared.yy",},
     {"name":"Prota","order":1,"path":"objects/Prota/Prota.yy",},
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},

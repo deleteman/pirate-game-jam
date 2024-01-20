@@ -31,7 +31,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.11.1.129",
+    "IDEVersion": "2023.8.2.108",
   },
   "resources": [
     {"id":{"name":"Prota","path":"objects/Prota/Prota.yy",},},
@@ -40,6 +40,12 @@
     {"id":{"name":"WeaponManager","path":"objects/WeaponManager/WeaponManager.yy",},},
     {"id":{"name":"Player","path":"sprites/Player/Player.yy",},},
     {"id":{"name":"Bloque","path":"objects/Bloque/Bloque.yy",},},
+    {"id":{"name":"pinchos","path":"sprites/pinchos/pinchos.yy",},},
+    {"id":{"name":"parado","path":"sprites/parado/parado.yy",},},
+    {"id":{"name":"saltando","path":"sprites/saltando/saltando.yy",},},
+    {"id":{"name":"prota","path":"sprites/prota/prota.yy",},},
+    {"id":{"name":"sierra","path":"sprites/sierra/sierra.yy",},},
+    {"id":{"name":"lava","path":"sprites/lava/lava.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [

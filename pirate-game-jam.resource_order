@@ -21,5 +21,10 @@
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
     {"name":"WeaponManager","order":2,"path":"objects/WeaponManager/WeaponManager.yy",},
     {"name":"Player","order":1,"path":"sprites/Player/Player.yy",},
+    {"name":"pinchos","order":2,"path":"sprites/pinchos/pinchos.yy",},
+    {"name":"parado","order":3,"path":"sprites/parado/parado.yy",},
+    {"name":"saltando","order":5,"path":"sprites/saltando/saltando.yy",},
+    {"name":"prota","order":1,"path":"sprites/prota/prota.yy",},
+    {"name":"lava","order":4,"path":"sprites/lava/lava.yy",},
   ],
 }

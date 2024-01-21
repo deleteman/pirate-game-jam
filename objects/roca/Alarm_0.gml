@@ -3,3 +3,5 @@
 
 
 gravity_direction += 180
+caer = true
+subiendo = true;

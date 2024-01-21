@@ -61,6 +61,7 @@
     {"id":{"name":"prota","path":"sprites/prota/prota.yy",},},
     {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},},
     {"id":{"name":"roca","path":"objects/roca/roca.yy",},},
+    {"id":{"name":"bloque_fondo","path":"sprites/bloque_fondo/bloque_fondo.yy",},},
     {"id":{"name":"sierra","path":"sprites/sierra/sierra.yy",},},
     {"id":{"name":"Object3","path":"objects/Object3/Object3.yy",},},
     {"id":{"name":"lava","path":"sprites/lava/lava.yy",},},

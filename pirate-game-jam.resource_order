@@ -37,6 +37,7 @@
     {"name":"prota","order":3,"path":"sprites/prota/prota.yy",},
     {"name":"Sprite5","order":7,"path":"sprites/Sprite5/Sprite5.yy",},
     {"name":"roca","order":6,"path":"objects/roca/roca.yy",},
+    {"name":"bloque_fondo","order":14,"path":"sprites/bloque_fondo/bloque_fondo.yy",},
     {"name":"Object3","order":3,"path":"objects/Object3/Object3.yy",},
     {"name":"lava","order":8,"path":"sprites/lava/lava.yy",},
   ],

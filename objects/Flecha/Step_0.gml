@@ -2,6 +2,11 @@
 // Puede escribir su código en este editor
 
 
-//room_goto(proximo_nivel)
 
-script_execute(SlideTransition, TRANS_MODE.GOTO, proximo_nivel)
+
+if(fading) {
+	image_alpha -= 0.05;
+	if(image_alpha < 0) {
+		instance_destroy()
+	}
+}

@@ -1,14 +1,15 @@
-/// @DnDAction : YoYo Games.Common.Execute_Code
-/// @DnDVersion : 1
-/// @DnDHash : 14FA6C81
-/// @DnDArgument : "code" "/// @description Inserte aquí la descripción$(13_10)// Puede escribir su código en este editor$(13_10)$(13_10)$(13_10)distancia = distance_to_object(Prota)$(13_10)$(13_10)if(distancia < 400) {$(13_10)		$(13_10)	//instance_create_layer(x, y, "Instances", Flecha, )$(13_10)}"
 /// @description Inserte aquí la descripción
 // Puede escribir su código en este editor
 
 
-distancia = distance_to_object(Prota)
+distancia = distance_to_object(Prota);
+var angulo_prota = point_direction(x, y, Prota.x, Prota.y)
 
-if(distancia < 400) {
+if(distancia < 400 && alarm[0] == -1) {
 		
-	//instance_create_layer(x, y, "Instances", Flecha, )
+	instance_create_layer(x, y, "Instances", Flecha, {
+		direction: angulo_prota,
+		image_angle: angulo_prota
+	})
+	alarm[0] = 120;
 }

@@ -2,6 +2,11 @@
 // Puede escribir su código en este editor
 
 
-//room_goto(proximo_nivel)
+gravity = 0;
+speed = 0;
 
-script_execute(SlideTransition, TRANS_MODE.GOTO, proximo_nivel)
+if(!fading && alarm[0] == -1) {
+	alarm[0] = 60;
+	solid = false;
+}
+

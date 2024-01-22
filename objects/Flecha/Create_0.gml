@@ -2,6 +2,7 @@
 // Puede escribir su código en este editor
 
 
-//room_goto(proximo_nivel)
+speed = 5;
+gravity = 0.1;
 
-script_execute(SlideTransition, TRANS_MODE.GOTO, proximo_nivel)
+fading = false;

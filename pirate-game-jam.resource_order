@@ -35,6 +35,7 @@
     {"name":"lanza_flechas","order":11,"path":"sprites/lanza_flechas/lanza_flechas.yy",},
     {"name":"saltando","order":9,"path":"sprites/saltando/saltando.yy",},
     {"name":"prota","order":3,"path":"sprites/prota/prota.yy",},
+    {"name":"Transiciones","order":11,"path":"objects/Transiciones/Transiciones.yy",},
     {"name":"Sprite5","order":7,"path":"sprites/Sprite5/Sprite5.yy",},
     {"name":"roca","order":6,"path":"objects/roca/roca.yy",},
     {"name":"Object3","order":3,"path":"objects/Object3/Object3.yy",},

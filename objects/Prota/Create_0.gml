@@ -10,3 +10,7 @@ target_y = 0;
 grid_size = 64;
 
 end_color = c_blue;
+
+jumping = false;
+
+firingdelay = 0

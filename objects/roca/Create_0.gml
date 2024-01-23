@@ -4,5 +4,7 @@
 
 distancia_x = 9999999;
 
+subiendo = false;
+
 caer = false;
 gravity = 0;

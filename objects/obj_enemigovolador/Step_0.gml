@@ -13,8 +13,15 @@ if(estado == 1) {
 	}
 }
 
-if(estado == 2) {
+if(estado == 2) 
+{
 	
-	
+	if distance_to_object(Prota)<120
+	{
+		if point_direction(x,y, Prota.x,Prota.y)>180 && point_direction(x,y, Prota.x,Prota.y)<360
+		{
+			move_towards_point(Prota.x,Prota.y,6);
+		}
+	}
 }
 

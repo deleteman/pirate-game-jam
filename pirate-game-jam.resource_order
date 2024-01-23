@@ -45,6 +45,7 @@
     {"name":"oHitSpot","order":13,"path":"objects/oHitSpot/oHitSpot.yy",},
     {"name":"Polvo","order":15,"path":"sprites/Polvo/Polvo.yy",},
     {"name":"Camara","order":12,"path":"objects/Camara/Camara.yy",},
+    {"name":"bloque_fondo","order":14,"path":"sprites/bloque_fondo/bloque_fondo.yy",},
     {"name":"Object3","order":3,"path":"objects/Object3/Object3.yy",},
     {"name":"lava","order":8,"path":"sprites/lava/lava.yy",},
   ],

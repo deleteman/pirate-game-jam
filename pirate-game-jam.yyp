@@ -67,6 +67,7 @@
     {"id":{"name":"Transiciones","path":"objects/Transiciones/Transiciones.yy",},},
     {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},},
     {"id":{"name":"roca","path":"objects/roca/roca.yy",},},
+    {"id":{"name":"bloque_fondo","path":"sprites/bloque_fondo/bloque_fondo.yy",},},
     {"id":{"name":"sierra","path":"sprites/sierra/sierra.yy",},},
     {"id":{"name":"oHitSpot","path":"objects/oHitSpot/oHitSpot.yy",},},
     {"id":{"name":"Polvo","path":"sprites/Polvo/Polvo.yy",},},

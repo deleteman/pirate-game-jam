@@ -13,8 +13,8 @@
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Conjuntos de casillas","folderPath":"folders/Conjuntos de casillas.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Curvas de animación","folderPath":"folders/Curvas de animación.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Extensiones","folderPath":"folders/Fuentes/Extensiones.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Fuentes","folderPath":"folders/Fuentes.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Extensiones","folderPath":"folders/Fuentes/Extensiones.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Líneas temporales","folderPath":"folders/Líneas temporales.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Notas","folderPath":"folders/Notas.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objetos","folderPath":"folders/Objetos.yy",},

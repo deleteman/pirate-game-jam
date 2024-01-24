@@ -9,11 +9,12 @@
 function SlideTransition() {
 	
 	with(Transiciones) {
-		mode = argument[0]
+	
 	
 		if(argument_count > 1) {
 	
 			target = argument[1]
 		}
+			mode = argument[0]
 	}
 }

@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Object3",
+  "name": "oBloqueMetal",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -24,10 +24,10 @@
   "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [],
-  "solid": false,
+  "solid": true,
   "spriteId": {
-    "name": "prota",
-    "path": "sprites/prota/prota.yy",
+    "name": "BloqueMetal",
+    "path": "sprites/BloqueMetal/BloqueMetal.yy",
   },
   "spriteMaskId": null,
   "visible": true,

@@ -21,9 +21,13 @@ if (place_meeting(x, y+2, Bloque))
 else if (move_y < 10) move_y += 1;
 
 
-move_and_collide(move_x, move_y, Bloque);
+move_and_collide(move_x, move_y, [Bloque, oBloqueMetal]);
 
-if (move_x != 0) image_xscale = sign(move_x);
+if (move_x != 0) {
+	image_xscale = sign(move_x);
+}
+
+if(move_x == 0) image_index = 0;
 
 
 //Deberia mover esto a un objeto "weapon"
@@ -32,8 +36,10 @@ WeaponManager.selected_weapon == Weapons.blocker) {
 	
 	target_x = floor(mouse_x/grid_size)*grid_size
 	target_y = floor(mouse_y/grid_size)*grid_size
-	instance_create_layer(target_x, target_y, "Instances", Bloque)
-
+	if(!place_meeting(mouse_x, mouse_y, [oBloqueMetal, Prota, Pincho, PortalFinalNivel,roca, LanzaFlechas, obj_enemigovolador])) {
+		
+		instance_create_layer(target_x, target_y, "Instances", Bloque)
+	}
 }
 
 firingdelay -= 1

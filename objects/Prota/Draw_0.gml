@@ -15,4 +15,4 @@ draw_line_width_colour(x + (sprite_width / 2), y + (sprite_height / 2),
 floor(mouse_x/grid_size)*grid_size, 
 floor(mouse_y/grid_size)*grid_size, 10, c_red, end_color);
 
-draw_sprite(sprite_index, image_index, x, y)
+draw_sprite_ext(sprite_index, image_index, x, y, image_xscale, image_yscale, direction, c_white, 1)

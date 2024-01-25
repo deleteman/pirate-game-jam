@@ -31,7 +31,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.11.1.129",
+    "IDEVersion": "2023.8.2.108",
   },
   "resources": [
     {"id":{"name":"boton","path":"objects/boton/boton.yy",},},
@@ -54,7 +54,6 @@
     {"id":{"name":"Sprite21","path":"sprites/Sprite21/Sprite21.yy",},},
     {"id":{"name":"Portal","path":"sprites/Portal/Portal.yy",},},
     {"id":{"name":"PortalFinalNivel","path":"objects/PortalFinalNivel/PortalFinalNivel.yy",},},
-    {"id":{"name":"Sprite21","path":"sprites/Sprite21/Sprite21.yy",},},
     {"id":{"name":"HitSpot","path":"sprites/HitSpot/HitSpot.yy",},},
     {"id":{"name":"Player","path":"sprites/Player/Player.yy",},},
     {"id":{"name":"Bloque","path":"objects/Bloque/Bloque.yy",},},
@@ -69,7 +68,8 @@
     {"id":{"name":"oFullscreen","path":"objects/oFullscreen/oFullscreen.yy",},},
     {"id":{"name":"parado","path":"sprites/parado/parado.yy",},},
     {"id":{"name":"oPolvo","path":"objects/oPolvo/oPolvo.yy",},},
-    {"id":{"name":"Sprite23","path":"sprites/Sprite23/Sprite23.yy",},},
+    {"id":{"name":"fnt_texto","path":"fonts/fnt_texto/fnt_texto.yy",},},
+    {"id":{"name":"fondo","path":"sprites/fondo/fondo.yy",},},
     {"id":{"name":"Object11","path":"objects/Object11/Object11.yy",},},
     {"id":{"name":"flecha","path":"sprites/flecha/flecha.yy",},},
     {"id":{"name":"lanza_flechas","path":"sprites/lanza_flechas/lanza_flechas.yy",},},
@@ -90,11 +90,11 @@
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"Nivel1","path":"rooms/Nivel1/Nivel1.yy",},},
+    {"roomId":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
     {"roomId":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
-    {"roomId":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
+    {"roomId":{"name":"Nivel1","path":"rooms/Nivel1/Nivel1.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [

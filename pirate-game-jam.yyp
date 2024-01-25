@@ -46,6 +46,7 @@
     {"id":{"name":"obj_enemigovolador","path":"objects/obj_enemigovolador/obj_enemigovolador.yy",},},
     {"id":{"name":"oBloqueMetal","path":"objects/oBloqueMetal/oBloqueMetal.yy",},},
     {"id":{"name":"Prota","path":"objects/Prota/Prota.yy",},},
+    {"id":{"name":"BigEnemyDmg","path":"sprites/BigEnemyDmg/BigEnemyDmg.yy",},},
     {"id":{"name":"Bloque1","path":"sprites/Bloque1/Bloque1.yy",},},
     {"id":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
@@ -78,8 +79,10 @@
     {"id":{"name":"Sprite22","path":"sprites/Sprite22/Sprite22.yy",},},
     {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},},
     {"id":{"name":"roca","path":"objects/roca/roca.yy",},},
+    {"id":{"name":"BigEnemyPooping","path":"sprites/BigEnemyPooping/BigEnemyPooping.yy",},},
     {"id":{"name":"bloque_fondo","path":"sprites/bloque_fondo/bloque_fondo.yy",},},
     {"id":{"name":"sierra","path":"sprites/sierra/sierra.yy",},},
+    {"id":{"name":"BigEnemy","path":"sprites/BigEnemy/BigEnemy.yy",},},
     {"id":{"name":"oHitSpot","path":"objects/oHitSpot/oHitSpot.yy",},},
     {"id":{"name":"Polvo","path":"sprites/Polvo/Polvo.yy",},},
     {"id":{"name":"Camara","path":"objects/Camara/Camara.yy",},},
@@ -91,7 +94,7 @@
     {"roomId":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
-    {"roomId":{"name":"Room4","path":"rooms/Room4/Room4.yy",},}
+    {"roomId":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [

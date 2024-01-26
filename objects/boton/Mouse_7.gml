@@ -1,19 +1,28 @@
 /// @description Inserte aquí la descripción
 // Puede escribir su código en este editor
 
+audio_play_sound(snPaso, 4, false)
 if texto == "Play"
 {
-	room_goto(Room3)
+	room_goto(Nivel0)
+}
+
+if(texto == "Back"){
+	room_goto(MenuPrincipal)
+}
+
+if (texto == "Restart"){
+	room_goto(MenuPrincipal)
 }
 
 if texto == "Controls"
 {
-	//ir a controles
+	room_goto(Controls)
 }
 
 if texto == "Credits"
 {
-	// ir a creditos
+	room_goto(Creditos)
 }
 
 if texto == "Exit"

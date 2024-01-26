@@ -14,3 +14,5 @@ end_color = c_blue;
 jumping = false;
 
 firingdelay = 0
+
+delay_pasos = 0;

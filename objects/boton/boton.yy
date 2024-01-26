@@ -33,8 +33,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Sprite22",
-    "path": "sprites/Sprite22/Sprite22.yy",
+    "name": "SpriteBoton",
+    "path": "sprites/SpriteBoton/SpriteBoton.yy",
   },
   "spriteMaskId": null,
   "visible": true,

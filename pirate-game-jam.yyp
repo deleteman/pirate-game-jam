@@ -31,7 +31,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.11.1.129",
+    "IDEVersion": "2023.8.2.108",
   },
   "resources": [
     {"id":{"name":"boton","path":"objects/boton/boton.yy",},},
@@ -53,7 +53,6 @@
     {"id":{"name":"Sprite21","path":"sprites/Sprite21/Sprite21.yy",},},
     {"id":{"name":"Portal","path":"sprites/Portal/Portal.yy",},},
     {"id":{"name":"PortalFinalNivel","path":"objects/PortalFinalNivel/PortalFinalNivel.yy",},},
-    {"id":{"name":"Sprite21","path":"sprites/Sprite21/Sprite21.yy",},},
     {"id":{"name":"HitSpot","path":"sprites/HitSpot/HitSpot.yy",},},
     {"id":{"name":"Player","path":"sprites/Player/Player.yy",},},
     {"id":{"name":"Bloque","path":"objects/Bloque/Bloque.yy",},},
@@ -91,7 +90,7 @@
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"roomId":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
-    {"roomId":{"name":"Nivel1","path":"rooms/NuNivel1.yy",},},
+    {"roomId":{"name":"Nivel1","path":"rooms/Nivel1/Nivel1.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [

@@ -1,2 +1,2 @@
 
-proximo_nivel = Room2
+proximo_nivel = BossFinal

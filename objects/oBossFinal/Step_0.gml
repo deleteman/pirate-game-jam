@@ -6,7 +6,7 @@ var distancia_prota_x = abs(x - Prota.x)
 pooping_delay -= 1
 
 if(distancia_prota_x < 30 && pooping_delay < 0) {
-	pooping_delay = 30
+	pooping_delay = 120
 	estado = Estados.ATTACK
 }
 

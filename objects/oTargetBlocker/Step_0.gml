@@ -2,6 +2,7 @@
 // Puede escribir su código en este editor
 
 if(instance_exists(Prota)) {
+	visible = true;
 	x = floor(mouse_x/Prota.grid_size)*Prota.grid_size
 	y = floor(mouse_y/Prota.grid_size)*Prota.grid_size
 
@@ -11,4 +12,6 @@ if(instance_exists(Prota)) {
 	} else {
 		image_index = 1 
 	}
+} else {
+	visible = false;
 }

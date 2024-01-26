@@ -2,7 +2,7 @@
 // Puede escribir su código en este editor
 
 
-gravity = 0.5
+gravity = 0.2
 
 
 

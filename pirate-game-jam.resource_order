@@ -39,7 +39,7 @@
     {"name":"pinchos","order":8,"path":"sprites/pinchos/pinchos.yy",},
     {"name":"oBala","order":15,"path":"objects/oBala/oBala.yy",},
     {"name":"ScreenShake","order":1,"path":"scripts/ScreenShake/ScreenShake.yy",},
-    {"name":"Room3","order":2,"path":"rooms/Room3/Room3.yy",},
+    {"name":"Nivel2","order":2,"path":"rooms/Nivel2/Nivel2.yy",},
     {"name":"oFullscreen","order":16,"path":"objects/oFullscreen/oFullscreen.yy",},
     {"name":"parado","order":9,"path":"sprites/parado/parado.yy",},
     {"name":"oPolvo","order":14,"path":"objects/oPolvo/oPolvo.yy",},

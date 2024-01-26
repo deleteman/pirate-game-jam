@@ -10,7 +10,8 @@
 //Deberia mover esto a un objeto "weapon"
 if(mouse_check_button_pressed(mb_left) && 
 WeaponManager.selected_weapon == Weapons.blocker &&
-alarm[0] == -1) {
+alarm[0] == -1 && 
+instance_exists(Prota)) {
 	alarm[0] = 6
 	var target_x = floor(mouse_x/Prota.grid_size)*Prota.grid_size
 	var target_y = floor(mouse_y/Prota.grid_size)*Prota.grid_size
@@ -19,3 +20,5 @@ alarm[0] == -1) {
 		instance_create_layer(target_x, target_y, "Instances", Bloque)
 	}
 }
+
+if(!instance_exists(Prota)) visible = false

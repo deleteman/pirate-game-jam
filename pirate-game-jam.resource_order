@@ -22,6 +22,7 @@
     {"name":"Bloque1","order":24,"path":"sprites/Bloque1/Bloque1.yy",},
     {"name":"spBlockPlacer","order":33,"path":"sprites/spBlockPlacer/spBlockPlacer.yy",},
     {"name":"oBossLifeBar","order":21,"path":"objects/oBossLifeBar/oBossLifeBar.yy",},
+    {"name":"oRoomMenu","order":26,"path":"objects/oRoomMenu/oRoomMenu.yy",},
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
     {"name":"WeaponManager","order":4,"path":"objects/WeaponManager/WeaponManager.yy",},
     {"name":"snEnemyAttack","order":3,"path":"sounds/snEnemyAttack/snEnemyAttack.yy",},
@@ -49,6 +50,7 @@
     {"name":"BossPoopFalling","order":26,"path":"sprites/BossPoopFalling/BossPoopFalling.yy",},
     {"name":"Object11","order":10,"path":"objects/Object11/Object11.yy",},
     {"name":"flecha","order":14,"path":"sprites/flecha/flecha.yy",},
+    {"name":"spRoomMenu","order":34,"path":"sprites/spRoomMenu/spRoomMenu.yy",},
     {"name":"oBossFinal","order":19,"path":"objects/oBossFinal/oBossFinal.yy",},
     {"name":"lanza_flechas","order":15,"path":"sprites/lanza_flechas/lanza_flechas.yy",},
     {"name":"Nivel0","order":8,"path":"rooms/Nivel0/Nivel0.yy",},
@@ -70,5 +72,6 @@
     {"name":"Polvo","order":20,"path":"sprites/Polvo/Polvo.yy",},
     {"name":"Camara","order":12,"path":"objects/Camara/Camara.yy",},
     {"name":"lava","order":12,"path":"sprites/lava/lava.yy",},
+    {"name":"oBackToMenuButton","order":27,"path":"objects/oBackToMenuButton/oBackToMenuButton.yy",},
   ],
 }

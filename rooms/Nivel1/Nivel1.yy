@@ -205,6 +205,7 @@
     {"name":"inst_77B2ED56","path":"rooms/Nivel1/Nivel1.yy",},
     {"name":"inst_7EC03914","path":"rooms/Nivel1/Nivel1.yy",},
     {"name":"inst_17A2B578","path":"rooms/Nivel1/Nivel1.yy",},
+    {"name":"inst_3436254","path":"rooms/Nivel1/Nivel1.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -409,6 +410,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_52A5F4E0","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Transiciones","path":"objects/Transiciones/Transiciones.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":64.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_77B2ED56","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oRestartLevelButton","path":"objects/oRestartLevelButton/oRestartLevelButton.yy",},"properties":[],"rotation":0.0,"scaleX":3.0,"scaleY":3.0,"x":-384.0,"y":-576.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7EC03914","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oTargetBlocker","path":"objects/oTargetBlocker/oTargetBlocker.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":-128.0,"y":1920.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3436254","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oRestartLevelButton","path":"objects/oRestartLevelButton/oRestartLevelButton.yy",},"properties":[],"rotation":0.0,"scaleX":3.0,"scaleY":3.0,"x":-320.0,"y":1888.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":true,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":{"name":"bloque_fondo","path":"sprites/bloque_fondo/bloque_fondo.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":true,"x":0,"y":0,},
   ],

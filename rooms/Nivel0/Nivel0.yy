@@ -102,6 +102,7 @@
     {"name":"inst_2F55A226","path":"rooms/Nivel0/Nivel0.yy",},
     {"name":"inst_6B9F5DEF","path":"rooms/Nivel0/Nivel0.yy",},
     {"name":"inst_5657A055","path":"rooms/Nivel0/Nivel0.yy",},
+    {"name":"inst_465D057A","path":"rooms/Nivel0/Nivel0.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -202,6 +203,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2F55A226","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"WeaponManager","path":"objects/WeaponManager/WeaponManager.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":-1248.0,"y":1728.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6B9F5DEF","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oRestartLevelButton","path":"objects/oRestartLevelButton/oRestartLevelButton.yy",},"properties":[],"rotation":0.0,"scaleX":2.5,"scaleY":3.0,"x":-1152.0,"y":1856.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5657A055","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oBlockPlacer","path":"objects/oBlockPlacer/oBlockPlacer.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":-1216.0,"y":1632.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_465D057A","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oBackToMenuButton","path":"objects/oBackToMenuButton/oBackToMenuButton.yy",},"properties":[],"rotation":0.0,"scaleX":4.5,"scaleY":4.0,"x":-1200.0,"y":1424.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":true,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":{"name":"bloque_fondo","path":"sprites/bloque_fondo/bloque_fondo.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":true,"x":0,"y":0,},
   ],

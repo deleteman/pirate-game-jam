@@ -13,6 +13,7 @@
     {"name":"inst_5ED1E9E8","path":"rooms/MenuPrincipal/MenuPrincipal.yy",},
     {"name":"inst_1CA4A00F","path":"rooms/MenuPrincipal/MenuPrincipal.yy",},
     {"name":"inst_6BE5F73B","path":"rooms/MenuPrincipal/MenuPrincipal.yy",},
+    {"name":"inst_6E29629C","path":"rooms/MenuPrincipal/MenuPrincipal.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -22,6 +23,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_16FB89D7","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"boton","path":"objects/boton/boton.yy",},"properties":[],"rotation":0.0,"scaleX":3.5,"scaleY":3.0,"x":704.0,"y":512.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5ED1E9E8","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"boton","path":"objects/boton/boton.yy",},"properties":[],"rotation":0.0,"scaleX":3.5,"scaleY":3.0,"x":704.0,"y":576.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1CA4A00F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oFullscreen","path":"objects/oFullscreen/oFullscreen.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":160.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6E29629C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Transiciones","path":"objects/Transiciones/Transiciones.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":192.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"ProtaCaminando","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6BE5F73B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oProtaMenuPrincipal","path":"objects/oProtaMenuPrincipal/oProtaMenuPrincipal.yy",},"properties":[],"rotation":0.0,"scaleX":1.5,"scaleY":1.5,"x":-96.0,"y":512.0,},

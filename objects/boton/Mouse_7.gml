@@ -4,7 +4,8 @@
 audio_play_sound(snPaso, 4, false)
 if texto == "Play"
 {
-	room_goto(Nivel0)
+//	room_goto_next()
+	script_execute(SlideTransition, TRANS_MODE.GOTO, Nivel0)
 }
 
 if(texto == "Back"){

@@ -5,3 +5,5 @@
 vida = 5
 
 golpes = 0;
+
+corrocion_delay = -1

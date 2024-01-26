@@ -22,4 +22,14 @@ if(alarm[0] == -1 && subiendo && bloque_arriba) {
 }
 */
 
+if(caer){ 
+	script_execute(ScreenShake, 5, 10)
+	audio_play_sound(snExplosionBloque, 5, false)
+	repeat(10) {
+		with(instance_create_layer(x,bbox_bottom,"Efectos", oPolvo)) {
+			vsp = 0
+		}
+	}
+}
 caer = false;
+

@@ -4,4 +4,4 @@
 
 //room_goto(proximo_nivel)
 
-script_execute(SlideTransition, TRANS_MODE.GOTO, proximo_nivel)
+script_execute(SlideTransition, TRANS_MODE.NEXT)

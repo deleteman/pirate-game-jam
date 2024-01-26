@@ -4,7 +4,7 @@
 
 distancia_x = abs(x - Prota.x)
 
-if(distancia_x < 10 && !place_meeting(x, y + 1, Bloque)) {
+if(distancia_x < 10 && !place_meeting(x, y + 1, [Bloque, oBloqueMetal])) {
 	caer = true;
 }
 

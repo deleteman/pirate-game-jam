@@ -1,1 +1,1 @@
-proximo_nivel=BossFinal
+proximo_nivel=Nivel1_2
